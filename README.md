@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negi-sachin&count_private=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negi-sachin&show_icons=true&count_private=true&theme=dark)
 
 [gmail]: sachinnegi808@gmail.com
 [youtube]: https://youtube.com/codeSTACKr
