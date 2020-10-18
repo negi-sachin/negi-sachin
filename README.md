@@ -45,6 +45,11 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
+<br/>
+<br/>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negi-sachin&count_private=true)
+
 [gmail]: sachinnegi808@gmail.com
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/negisachin
