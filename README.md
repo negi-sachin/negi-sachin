@@ -4,11 +4,15 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300" height="300" />
 
-### 🌀 I focus on developing apps that can make our work easy ❄
+*🌀 I focus on developing apps that can make our work easy ❄
 
 ### My Projects 🌜
 
-- [Sheyar- Share Files Romotely][https://sheyar.herokuapp.com]
+- [Sheyar- Share Files Romotely](https://sheyar.herokuapp.com)
+- [YTDL-Youtube Downloader](https://thawing-sierra-05759.herokuapp.com/)
+- [DTC BUS APP](https://dtc-app.netlify.app/) 
+- [Chat App](https://negi-chat.herokuapp.com/)
+- [React Todo with Speech Recognition](https://negi-sachin.github.io/Todo-React/)
 
 ### Connect with me:
 
@@ -39,5 +43,5 @@
 
 [gmail]: sachinnegi808@gmail.com
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/negisachin
 [linkedin]: https://linkedin.com/in/negi-sachin
