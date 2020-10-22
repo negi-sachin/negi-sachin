@@ -2,8 +2,11 @@
 
 ### Let's keep it short and simple ♨
 
-* 🐱‍🏍MERN Full Stack Developer💻
-* Hackathon Enthusiast
+### ✔ MERN Full Stack Developer💻
+
+### ✔ Hackathon Enthusiast 🤩
+
+### ✔ Enjoy Learning New things
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300" height="300" />
 
