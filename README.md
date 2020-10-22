@@ -1,16 +1,18 @@
-## Hello there😃,
+## Hello there 😃,
 
-### 🐱‍🏍I Love doing Development 💻
+### Let's keep it short and simple ♨
+
+1. 🐱‍🏍MERN Full Stack Developer💻
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300" height="300" />
 
-*🌀 I focus on developing apps that can make our work easy ❄*
+_🌀Goal: I focus on developing apps that can make our work easy ❄_
 
 ### My Projects 🌜
 
 - [Sheyar- Share Files Romotely](https://sheyar.herokuapp.com)
 - [YTDL-Youtube Downloader](https://thawing-sierra-05759.herokuapp.com/)
-- [DTC BUS APP](https://dtc-app.netlify.app/) 
+- [DTC BUS APP](https://dtc-app.netlify.app/)
 - [Chat App](https://negi-chat.herokuapp.com/)
 - [React Todo with Speech Recognition](https://negi-sachin.github.io/Todo-React/)
 
