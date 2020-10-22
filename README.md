@@ -2,7 +2,8 @@
 
 ### Let's keep it short and simple ♨
 
-1. 🐱‍🏍MERN Full Stack Developer💻
+* 🐱‍🏍MERN Full Stack Developer💻
+* Hackathon Enthusiast
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300" height="300" />
 
