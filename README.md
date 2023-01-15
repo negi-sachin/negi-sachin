@@ -14,7 +14,7 @@ _🌀Goal: I focus on developing apps that can make our work easy ❄_
 
 ### My Projects 🌜
 
-- [Sheyar- Share Files Romotely](https://sheyar.herokuapp.com)
+- [Sheyar- Share Files Romotely](https://www.sheyar.sachinegi.in)
 - [YTDL-Youtube Downloader](https://thawing-sierra-05759.herokuapp.com/)
 - [DTC BUS APP](https://dtc-app.netlify.app/)
 - [Chat App](https://negi-chat.herokuapp.com/)
